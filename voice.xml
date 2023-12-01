@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="https://webhook.site/dee3e0b9-c755-4917-8642-4a30cb61a826" numDigits="1">
+        <Say>Please press 1 for sales or 2 for support.</Say>
+    </Gather>
+</Response>
